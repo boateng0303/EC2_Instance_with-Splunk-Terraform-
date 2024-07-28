@@ -1,10 +1,10 @@
 terraform {
   backend "s3" {
-    bucket         = "kb0303-terraform"
+    bucket         = "ljlljljiuumjk"
     key            = "dev/terraform.tfstate"
     region         = "us-east-1"
     encrypt        = true
-    dynamodb_table = "locktable"
+    dynamodb_table = "jgjghjgjhjhj"
   }
 
 }
